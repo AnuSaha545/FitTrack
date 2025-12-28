@@ -29,6 +29,5 @@ all without using any external services.
 **Tools:**  
 - Git / GitHub  
 - Node.js & npm  
-- Python 3.x  
-
+- Python 3.x 
 
